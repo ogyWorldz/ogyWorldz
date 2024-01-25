@@ -3,10 +3,25 @@ hi, i'm [Ogy Cangoz](https://myportfoliobucket-ogyworld.s3.amazonaws.com/my_port
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/ogyWorldz/ogyWorldz/blob/main/code.gif" width="450" height="200" />
+  <img align="right" alt="GIF" src="https://github.com/ogyWorldz/ogyWorldz/blob/main/code.gif" width="500" height="340" />
   
 - 💼 want to get to know me and have a chat? [email](mailto:ocangoz2@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+
+
+📊 **this is what my day to day looks like:**
+<!--START_SECTION:waka-->
+
+```txt
+Snowflake      ███████████░░░░░░░░░   54 %
+Looker         █████░░░░░░░░░░░░░░░   26 %
+Airflow        ██░░░░░░░░░░░░░░░░░░   10 %
+Databricks     █░░░░░░░░░░░░░░░░░░░   08 %
+Docker         ░░░░░░░░░░░░░░░░░░░░   02 %
+```
+
+
+
 
 **languages and tools:**  
 
@@ -28,15 +43,5 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-📊 **this is what my day to day looks like:**
-<!--START_SECTION:waka-->
-
-```txt
-Snowflake      ███████████░░░░░░░░░   54 %
-Looker         █████░░░░░░░░░░░░░░░   26 %
-Airflow        ██░░░░░░░░░░░░░░░░░░   10 %
-Databricks     █░░░░░░░░░░░░░░░░░░░   08 %
-Docker         ░░░░░░░░░░░░░░░░░░░░   02 %
-```
 
 
