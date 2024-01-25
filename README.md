@@ -1,4 +1,4 @@
-hi, i'm [Ogy Cangoz](https://myportfoliobucket-ogyworld.s3.amazonaws.com/my_portfolio/index.html/), a passionate end to end developer and data engineer from the greater NYC region.
+hi, i'm [Ogy Cangoz](https://myportfoliobucket-ogyworld.s3.amazonaws.com/my_portfolio/index.html), a passionate end to end developer and data engineer from the greater NYC region.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
