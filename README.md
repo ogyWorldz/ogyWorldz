@@ -13,11 +13,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Snowflake      ███████████░░░░░░░░░   54 %
-Looker         █████░░░░░░░░░░░░░░░   26 %
-Airflow        ██░░░░░░░░░░░░░░░░░░   10 %
-Databricks     █░░░░░░░░░░░░░░░░░░░   08 %
-Docker         ░░░░░░░░░░░░░░░░░░░░   02 %
+Snowflake      ██████░░░░░░░░░░░░░░   25 %
+Looker         ██████░░░░░░░░░░░░░░   25 %
+Databricks     ██████░░░░░░░░░░░░░░   25 %
+Airflow        █████░░░░░░░░░░░░░░░   15 %
+Docker         ███░░░░░░░░░░░░░░░░░   10 %
 ```
 
 
